@@ -1,6 +1,9 @@
 # Baby Cry Translator:
 Project that aimed to create a tool to help parents identify the reason for their babies cry.
 
+![image](https://user-images.githubusercontent.com/117198977/228267651-aa225ff9-bfae-4652-b021-fb92a54e8474.png)
+
+
 # Dataset:
 Data used was retrieved from the donateacry-corpus repository
 
