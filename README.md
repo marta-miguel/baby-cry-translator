@@ -6,7 +6,9 @@ Data used was retrieved from the donateacry-corpus repository
 
 # Files:
 
-
+Baby_Cries_ML_hungry.ipynb --> Data cleaned and transformed, later used to create the model applied on the translator
+Baby_Cries_ML_not_hungry.ipynb  --> Data cleaned and transformed, ended up not being used as the results of the models were not relevant
+app.py --> created with streamlit in order to present the Baby Cry Translator as a product
 
 # Presentation:
 
